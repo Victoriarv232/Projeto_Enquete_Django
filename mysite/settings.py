@@ -1,3 +1,4 @@
+
 """
 Django settings for mysite project.
 
@@ -25,7 +26,7 @@ SECRET_KEY = 'django-insecure--yow&y100s8ngx18zg=5&q3jxy=vjx(w3p=zeckejh_6kh0s^4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
